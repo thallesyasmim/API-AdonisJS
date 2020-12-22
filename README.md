@@ -10,6 +10,15 @@
 
 1. Run `adonis serve --dev` to start the application on `localhost:3333`
 
+### Studied concepts
+
+- CRUD
+- Relationships
+- Authentication
+- Query Builder
+- ORM
+- MVC
+
 <h2>📱 Minhas redes sociais:</h2>
 
 <p align="center">
